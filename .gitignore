@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SashView-Backend-SchemaParser/.vs/SashView-Backend-SchemaParser
+/SashView-Backend-SchemaParser/SashView-Backend-SchemaParser/obj

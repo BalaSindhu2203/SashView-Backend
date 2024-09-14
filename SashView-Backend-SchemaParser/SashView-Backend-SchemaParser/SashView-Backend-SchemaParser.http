@@ -1,0 +1,6 @@
+@SashView_Backend_SchemaParser_HostAddress = http://localhost:5039
+
+GET {{SashView_Backend_SchemaParser_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
